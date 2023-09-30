@@ -1,3 +1,6 @@
+### Code Structure:
+I implemented a simple two-layer neural network and trained it on the MNIST digit recognizer dataset. It's meant to be an instructional example, through which you can understand the underlying math of neural networks better.
+
 Here is the most simplest way to implement a Neural Network using just Numpy. This following model has a simple two-layer architecture. Input layer $a^{[0]}$ has 784 units corresponding to the 784 pixels in each 28x28 input image. A hidden layer $a^{[1]}$ has 10 units with ReLU activation, and finally output layer $a^{[2]}$ will have 10 units corresponding to the ten digit classes with softmax activation. Here is the Mathemetical explaination of following code.
 
 **Forward propagation**
