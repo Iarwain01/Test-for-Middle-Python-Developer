@@ -16,5 +16,6 @@ Explain how you organized your code and what data processing approaches you chos
 
 ### Task 4: Documentation 
 Write comprehensive documentation for each of the previous tasks, describing the capabilities of your code, its installation and usage as well as other important details a user should know. 
-Provide all your answers and code in the GitHub repository. (Documentation of Task above are included on task folder)
+Provide all your answers and code in the GitHub repository. 
+## (Documentation of Task above are included on task folder)
 
